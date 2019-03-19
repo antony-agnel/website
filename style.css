@@ -5,6 +5,9 @@ body{
 a{
 	color:red;
 }
+a:hover{
+	color:black;
+}
 p{
 	font-family: sans-serif;
 }
