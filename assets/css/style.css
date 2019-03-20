@@ -1,3 +1,8 @@
+@media (min-width: 500px){
+	body{
+		background:lightgreen;
+	}
+}
 body{
 	color: black;
 	background: white;
