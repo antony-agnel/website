@@ -25,6 +25,7 @@ p{
 }
 #snap{
 	float:right;
+	margin:1em;
 }
 /* use this to put borders around things... */
 .crop-img{
